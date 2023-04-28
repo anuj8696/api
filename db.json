@@ -3,10 +3,10 @@
     {
     "name": "Anuj Kumar Gupta",
     "age": 24,
-    "mobile number": "6785454454",
+    "mobile_no": "6785454454",
     "email": "abc@gmail.com",  
     "sex": "male",
-    "father's name": "Tikeshwar prasad",
+    "father_name": "Tikeshwar prasad",
     "address": "Bhawnathpur, Garhwa, Jharkhand, 822112"
     }
   ],
