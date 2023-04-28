@@ -1,7 +1,18 @@
 {
+  "posts": [
+    {
     "name": "Anuj Kumar Gupta",
     "age": 24,
     "sex": "male",
     "father's name": "Tikeshwar prasad",
     "address": "Bhawnathpur, Garhwa"
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
