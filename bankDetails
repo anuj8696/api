@@ -1,0 +1,17 @@
+[
+  {
+    "Holder_name": "Mr. Aryan Raj",
+    "mobile_no": "6785454454",
+    "bank_name": "State bank of India",
+    "city": "Bangalore",
+    "customer_id": "162416130",
+    "account_number": "38783908767",
+    "ifsc_code": "SBIN0001882",
+    "branch_code": "1852",
+ 
+   "account_status": "Regular",
+   "branch_name": "Bangalore",
+   "bank_address": "State Bank of India, near techno park, Bangalore"
+ 
+ }
+]
