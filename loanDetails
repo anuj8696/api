@@ -1,0 +1,15 @@
+[
+  {
+
+    "loan_application": "Mr. Aryan Raj",
+    "loan_id": "451891448",
+    "loan_amount": "Rs-2000000/",
+    "interest_rate": "10.25%",
+    "location": "bangalore",
+    "loan_period": "5 years",
+    "EMI": "Rs-42741/",
+    "advanced_emi": "Rs-0/",
+    "processing_fee": "Rs-3279/"
+
+  }
+]
